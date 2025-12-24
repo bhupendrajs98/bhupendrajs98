@@ -1,147 +1,122 @@
-# 👋 Bhupendra Gadariya  
-### 🚀 Full Stack Web Developer | MERN Stack | React Specialist  
+Bhupendra Pal
 
-💡 I build **real-world, scalable & business-oriented web applications**  
-🎯 Actively seeking **Frontend / Full Stack Developer** opportunities  
+Full Stack Web Developer | MERN Stack | React Specialist
 
----
+Building real-world, scalable, and business-oriented web applications. Actively seeking Frontend / Full Stack Developer opportunities.
 
-## 👨‍💻 Professional Summary  
+Professional Summary
 
-A highly motivated **Full Stack Web Developer (Fresher)** with hands-on experience in building **production-style dashboards, landing pages, and complete MERN stack applications**.  
-Focused on **clean UI, scalable backend architecture, and real business use cases**.
+Highly motivated Full Stack Web Developer (Fresher) with hands-on experience in developing production-style dashboards, landing pages, and complete MERN stack applications.
+Focused on delivering clean UI, scalable backend architecture, and real business solutions.
 
-✔️ Real-world project experience  
-✔️ Strong React & MERN fundamentals  
-✔️ Placement & industry-oriented mindset  
+Real-world project experience
 
----
+Strong React and MERN fundamentals
 
-## 🧠 Technical Skills  
+Placement & industry-oriented mindset
 
-### 🔹 Frontend  
-- React.js  
-- JavaScript (ES6+)  
-- HTML5, CSS3  
-- Tailwind CSS  
-- Framer Motion  
+Technical Skills
 
-### 🔹 Backend  
-- Node.js  
-- Express.js  
-- RESTful APIs  
-- JWT Authentication  
+Frontend: React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, Framer Motion
+Backend: Node.js, Express.js, RESTful APIs, JWT Authentication
+Database: MongoDB
+Tools & Environment: Git, GitHub, Postman, VS Code, Linux (Ubuntu)
 
-### 🔹 Database  
-- MongoDB  
+Real-World Projects
 
-### 🔹 Tools & Environment  
-- Git & GitHub  
-- Postman  
-- VS Code  
-- Linux (Ubuntu)  
+POS System – Dashboard & Landing Page
+Technologies: React, Tailwind CSS
 
----
+Dashboard for order & sales management
 
-## 🚀 Real-World Projects  
+Category-based product system
 
-### 🍕 POS System – Dashboard & Landing Page  
-**Tech:** React, Tailwind CSS  
+Cart & order summary workflow
 
-- POS Dashboard for order & sales management  
-- Category-based product system  
-- Cart & order summary flow  
-- Landing page for POS product showcase  
-- Real shop-inspired UI & workflow  
+Landing page for product showcase
 
-🔗 *GitHub Repository Available*
+Real shop-inspired UI and workflow
 
----
+Logistics Management System – Dashboard & Landing Page
+Technologies: React, Tailwind CSS
 
-### 🚚 Logistics Management System – Dashboard & Landing Page  
-**Tech:** React, Tailwind CSS  
+Admin dashboard for shipment & delivery tracking
 
-- Admin dashboard for shipment & delivery tracking  
-- Status-based order management  
-- Analytics-style UI layout  
-- Business landing page for logistics platform  
-- Clean & professional enterprise design  
+Status-based order management
 
-🔗 *GitHub Repository Available*
+Analytics-style UI layout
 
----
+Business landing page for logistics platform
 
-### 💼 Job Portal – Full Stack MERN (Indeed-Style)  
-**Tech:** MongoDB, Express, React, Node.js  
+Job Portal – Full Stack MERN (Indeed-Style)
+Technologies: MongoDB, Express, React, Node.js
 
-- Role-based authentication (Recruiter & Job Seeker)  
-- Job posting & application system  
-- Recruiter dashboard  
-- Job seeker application tracking  
-- REST APIs with secure authentication  
+Role-based authentication (Recruiter & Job Seeker)
 
-🔗 *GitHub Repository Available*
+Job posting & application system
 
----
+Recruiter dashboard
 
-### 🍔 Food Blog Application  
-**Tech:** React, Tailwind CSS  
+Job seeker application tracking
 
-- Blog-style food content platform  
-- Category & recipe based UI  
-- Responsive modern design  
-- Clean component architecture  
+REST APIs with secure authentication
 
-🔗 *GitHub Repository Available*
+Food Blog Application
+Technologies: React, Tailwind CSS
 
----
+Blog-style food content platform
 
-### 📞 Contact Manager – MERN Stack  
-**Tech:** React, Node.js, Express, MongoDB  
+Category & recipe-based UI
 
-- Secure user authentication  
-- Full CRUD operations  
-- REST API architecture  
-- Clean & maintainable codebase  
+Responsive modern design
 
-🔗 *GitHub Repository Available*
+Clean component architecture
 
----
+Contact Manager – MERN Stack
+Technologies: React, Node.js, Express, MongoDB
 
-## 📈 Currently Working On  
+Secure user authentication
 
-- Advanced React patterns  
-- Scalable MERN architecture  
-- Performance optimization  
-- Data Structures & logic building  
+Full CRUD operations
 
----
+REST API architecture
 
-## 💼 Career Objective  
+Maintainable and scalable codebase
 
-To work as a **Frontend / Full Stack Developer** where I can contribute to  
-✔️ Real products  
-✔️ Business-driven applications  
-✔️ High-quality UI & scalable backend systems  
+Currently Working On
 
----
+Advanced React patterns
 
-## 🤝 Let’s Connect  
+Scalable MERN architecture
 
-- 💼 LinkedIn: *https://www.linkedin.com/in/bhupendra-gadariya-a478712aa/*  
-- 📧 Email: *bhupendrajs1698@gmail.com*  
-- 🌐 Portfolio: *(Under Development)*  
+Performance optimization
 
----
+Data Structures & logical problem solving
 
-## ⭐ Why Recruiters Like My Profile  
+Career Objective
 
-✔️ Real business-style projects  
-✔️ Dashboard + landing page experience  
-✔️ Full Stack MERN exposure  
-✔️ Strong frontend + backend balance  
+To work as a Frontend / Full Stack Developer where I can contribute to:
 
----
+Real products
 
-📌 *Open to internships, fresher & full-time developer roles*  
-🚀 **Ready to contribute from day one**
+Business-driven applications
+
+High-quality UI and scalable backend systems
+
+Contact
+
+LinkedIn: https://www.linkedin.com/in/bhupendra-gadariya-a478712aa/
+
+Email: bhupendrajs1698@gmail.com
+
+Portfolio: (Under Development)
+
+Why Recruiters Should Consider My Profile
+
+Experience in real business-style projects
+
+Expertise in dashboard + landing page design
+
+Full Stack MERN exposure
+
+Balanced frontend and backend skills
